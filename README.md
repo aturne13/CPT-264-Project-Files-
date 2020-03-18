@@ -1,4 +1,4 @@
-# CPT264-Project-Files
+# CPT264Project-Files
 This web program will work as an IT ticketing system. It will consist of a website with a JavaScript form
 that will allow a user to input information on an issue. Once sent, the form will be saved on the server
 and will be read by a separate web program that will display this information to technicians. The techs will
